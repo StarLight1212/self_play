@@ -1,6 +1,6 @@
 # Self-Play
 
-🎮 Ultimate AI solutions for Tic-tac-toe game | 终极人工智能井字棋解决方案
+🎮 No game no AI(life) -- Ultimate AI solutions for Tic-tac-toe game | 终极人工智能井字棋解决方案
 
 [English](#english) | [中文](#chinese)
 
